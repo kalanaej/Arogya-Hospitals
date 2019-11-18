@@ -1,0 +1,43 @@
+body {
+    line-height: 1;
+    font-family: 'Tahoma', Arial;
+    background-image:url("../Images/Background.jpg");
+    background-size:cover;
+    font-size:20px;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.profile{
+    background-color:rgba(0,0,0,0.6);
+    color:white;
+    padding: 5px 20px 15px 20px;
+    border: 3px solid grey;
+    border-radius: 15px;
+    width:700px;
+    margin-left:300px;
+    margin-top:50px;
+}
+.pr{
+    float:left;
+    border-radius: 5px;
+    border: 2px black;
+    margin-top: 10px;
+    height: 30px;
+}
+.btn1{
+    float: right;
+    color: #4CAF50;
+    border-radius: 10px;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: white;
+    border: 2px solid #4CAF50;
+    margin-left: 10px;
+}
+.btn1:hover {
+    background-color: #4CAF50;
+    color: white;
+}

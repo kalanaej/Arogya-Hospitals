@@ -1,0 +1,58 @@
+
+.table th{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    border-collapse: separate;
+    background-color:darkblue;
+}
+.table td{
+    width:100px;
+    height:100px;
+    padding: 15px;
+    border-collapse: separate;
+    background-color:rgba(0,0,0,0.4);
+    text-align: center;
+}
+.new
+{
+    height:100px;
+    width:100px;
+}
+
+.cartsize
+{
+    margin-top: 30px;
+    width:1100px;
+    margin-left: auto;
+    margin-right:auto;
+    color:white;
+    font-size:110.5%;
+
+}
+.shoppingline{
+    margin-left: auto;
+    margin-right:auto;
+    color:white;
+}
+.head1
+{
+    margin-top: 80px;
+    margin-left:550px;
+    font-size:190.5%;
+}
+.button1{
+    float: left;
+    color: black;
+    border-radius: 10px;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: white;
+    border: 2px solid #4CAF50;
+}
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
